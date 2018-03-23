@@ -55,8 +55,7 @@ class prpcrypt():
 print os.getcwd()
 pc = prpcrypt(os.getcwd())      #初始化密钥
 
-e = pc.encrypt("810830.")
-print e
+
 
 apptestname=""
 appname="c:\\r5380_laicunba_360sz_20205_2.2.5.apk"
